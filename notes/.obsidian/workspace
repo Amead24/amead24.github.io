@@ -1,0 +1,101 @@
+{
+  "main": {
+    "id": "a39328e6a10e9981",
+    "type": "split",
+    "children": [
+      {
+        "id": "e9b3c28f625fc3e5",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "book review - Misson To Mars.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ac003ed91f405c73",
+    "type": "split",
+    "children": [
+      {
+        "id": "6a6d99acd68eb0d4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "06644dc942304ff8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "9430b3512e5edcb0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "finance",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 364,
+    "collapsed": true
+  },
+  "right": {
+    "id": "1ad1833f66e9e0aa",
+    "type": "split",
+    "children": [
+      {
+        "id": "e87deef447882591",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0169ba2ff45b1992",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "book review - Misson To Mars.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "book review - Misson To Mars.md",
+    "book review (TODO) - Red Shirts.md",
+    "book review - Stranger in a Strange Land.md",
+    "Untitled 1.md",
+    "oop/Abstract Factory Pattern.md",
+    "oop/Untitled.md",
+    "oop/Command Pattern.md",
+    "oop/Principal - Favor object composition over class inheritance..md",
+    "oop/Principal - Program to an interface, not an implementation.md",
+    "oop/decorator.md"
+  ]
+}

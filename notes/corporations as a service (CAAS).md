@@ -1,0 +1,10 @@
+corporations as a service
+
+the fludity that financialization has brought along with the decreasing rules and regulations around borders means that they can become commodities to be bought as sold.  like a infrastructure company money goes in and money comes out, and the IAAS would be wall street or global financial systems
+
+also like most SaaS platforms the claim is that the money saving is in the abstraction of labor.  all the messy parts have been pushed out to third party firms, automation fillls the other third, and the last third is those essential workers who are perpetually living contract to contract training or documenting their roles to make it easier to replace them
+
+the firm then becomes a sort of value extraction function to be placed over geographical regions or groups of exploited labor
+
+
+#capitalism #economics #firms #corporations
