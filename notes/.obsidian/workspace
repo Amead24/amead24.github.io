@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "book review - Misson To Mars.md",
+            "file": "Untitled 2.md",
             "mode": "source"
           }
         }
@@ -53,8 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 364,
-    "collapsed": true
+    "width": 364
   },
   "right": {
     "id": "1ad1833f66e9e0aa",
@@ -70,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "book review - Misson To Mars.md",
+                "file": "Untitled 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,15 +86,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Untitled 2.md",
+    "Untitled 1.md",
+    "Untitled.md",
+    "book review - Theodore.md",
+    "book reivew - theodore.md",
     "book review - Misson To Mars.md",
     "book review (TODO) - Red Shirts.md",
     "book review - Stranger in a Strange Land.md",
-    "Untitled 1.md",
     "oop/Abstract Factory Pattern.md",
-    "oop/Untitled.md",
-    "oop/Command Pattern.md",
-    "oop/Principal - Favor object composition over class inheritance..md",
-    "oop/Principal - Program to an interface, not an implementation.md",
-    "oop/decorator.md"
+    "oop/Untitled.md"
   ]
 }
