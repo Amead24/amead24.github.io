@@ -5,4 +5,4 @@ Rising asset prices allow for more individuals who are not seeing wage growth ta
 "If the logic of capitalism is based on extraction from people and planet today, then finance-led growth is based on extraction from people and planet today and tomorrow, until the future itself has been stolen."
 Blakely, Grace.  Stolen. pg 23
 
-
+#capitalism #finance 

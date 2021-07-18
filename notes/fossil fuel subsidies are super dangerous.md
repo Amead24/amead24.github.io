@@ -5,3 +5,5 @@ A counter argument would be that pushing gas prices low helps the poor and remov
 
 "According to the IEA, these came to $550 billion world wide in 2014, four times the subsidy for renewable energy.  It estimated that scrapping them would cut carbon emissions by a fifth"
 Standing, Guy.  The Corruption of Capitalism pg. 107
+
+#capitalism #corruption-of-capitalism

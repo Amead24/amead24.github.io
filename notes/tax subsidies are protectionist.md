@@ -5,6 +5,6 @@ Are there not tax rules that apply to non-domestic companies?
 Cato institue even agrees this is a form of crony-capitalism:
 T. deHaven. *Corporate Welvare in the Federal Budget,* Cato institute, Policy Analysis No 703, 26 July 20212
 
-[[tax subsidies overview]]
+[[Tax subsidies encourage changes of behavior]]
 
 #taxes 

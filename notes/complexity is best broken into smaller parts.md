@@ -10,4 +10,4 @@ Python has optimized for this very complex world it has setup.  Like the shippin
 
 Complexity analysis sounds like a business topic, but becomes interesting after having many examples or experience with it.  Then it becomes a deeply "technical" subject to talk about.
 
-#complexity-analysis 
+#complexity-analysis #engineering

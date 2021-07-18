@@ -15,5 +15,4 @@ corruption of capitalism pg 15
 In most of the world liberalism means to liberate from regulation, but in the US we call them libertarians.  Those who promote unfettered capitalism combine with a small US government.  Neo-liberalism takes this one step further and uses a larger state to restrict any sort of attempt to put chains on capitalism whether it be better individual freedoms (workplace discrimination) or anti-union activities.
 
 
-#political-identity #right-wing #contradictions
-
+#political-identity #right-wing #contradictions #capitalism  #neoliberalism 

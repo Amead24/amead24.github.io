@@ -6,11 +6,10 @@
       {
         "id": "e9b3c28f625fc3e5",
         "type": "leaf",
-        "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Untitled 2.md",
+            "file": "book reviews/Theodore Rex.md",
             "mode": "source"
           }
         }
@@ -69,10 +68,12 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled 2.md",
+                "file": "book reviews/Theodore Rex.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -85,16 +86,17 @@
     "width": 300,
     "collapsed": true
   },
+  "active": "e9b3c28f625fc3e5",
   "lastOpenFiles": [
-    "Untitled 2.md",
-    "Untitled 1.md",
-    "Untitled.md",
-    "book review - Theodore.md",
-    "book reivew - theodore.md",
-    "book review - Misson To Mars.md",
-    "book review (TODO) - Red Shirts.md",
-    "book review - Stranger in a Strange Land.md",
-    "oop/Abstract Factory Pattern.md",
-    "oop/Untitled.md"
+    "book reviews/Theodore Rex.md",
+    "book reviews/The Warehouse.md",
+    "book reviews/Untitled.md",
+    "book reviews/book review - Misson To Mars.md",
+    "book reviews/book review - Mission to Mars.md",
+    "book reviews/book review - gideon.md",
+    "book reviews/book review - Theodore.md",
+    "book reviews/book review (WIP) - Capital.md",
+    "book review - change agent.md",
+    "Untitled.md"
   ]
 }

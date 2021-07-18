@@ -7,3 +7,5 @@ However that's only the tip of the iceberg.  In order for companies to have surv
 
 "[I]t is also critical to bear in mind that these factors merely served to prolong under lying trends that had their roots in the real economy."
 Blakely, Grace.  Stolen.  Pg 154
+
+#capitalism #finance

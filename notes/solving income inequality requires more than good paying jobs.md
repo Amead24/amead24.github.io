@@ -5,4 +5,4 @@ the erosion of small local companies means even good paying jobs go to support t
 
 see thoughts inside mariana mazzucato in regards to innovation systems
 
-#shop-local #amazon #income-inequality 
+#shop-local #amazon #income-inequality #capitalism 

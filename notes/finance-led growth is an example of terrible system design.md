@@ -6,4 +6,4 @@ It requires the attention of hundreds if not thousands of dedicated beuracrats a
 
 From a computer science perspective it lacks significant redundancy rests on a few single points of failure, and has no self-correcting mechanisms.
 
-#keynes #corruption-of-capitalism
+#keynes #corruption-of-capitalism #capitalism #finance
