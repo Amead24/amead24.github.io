@@ -1,1 +1,0 @@
-read an article today, with a subplot on how arbitrary ratings can be, and even if I have a feeling they can be used even more arbitrarily.   It negates the whole point to read a review if your first instinct is to disregard anything below a four out of a five rating which is not my point.
