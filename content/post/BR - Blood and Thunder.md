@@ -1,7 +1,7 @@
 ---
 title: "Book Review - Blood and Thunder"
 date: "2021-03-15"
-tags: ["book reivew"]
+tags: ["book review"]
 ---
 Author: Hampton Sides
 

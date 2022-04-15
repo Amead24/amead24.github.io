@@ -3,7 +3,7 @@ title: "Book Review - Theodore Rex"
 date: "2021-06-06"
 publishdate: "2021-06-06"
 tags:
-  - "book reivew"
+  - "book review"
 ---
 
 Author: Edmund Morris

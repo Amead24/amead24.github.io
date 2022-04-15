@@ -1,7 +1,7 @@
 ---
 title: "Book Review - Mission To Mars"
 date: "2021-01-18"
-tags: ["book reivew"]
+tags: ["book review"]
 ---
 
 After reading An Astronaughts Guide to Life on Earth I have been curious about books on highly successful people.  Chris's dedication to continuously pursuing his dream was an new and exciting feeling.  Yet in the the end he recognizes that many others never accomplish what they set out for and one needs to be mentally ready for that realization.  With that said I was hoping for another exploration of Buzz's life, but what I got was a primer on space policy.  Before I discuss what I liked and disliked about that subject, it's worth noting that I might have got insight into as much of Buzz's view of life as I did with Chris book.

@@ -1,7 +1,7 @@
 ---
 title: "Book Review - Mission to Mars"
 date: "2021-04-04"
-tags: ["book reivew"]
+tags: ["book review"]
 ---
 Author: Mary Roach
 

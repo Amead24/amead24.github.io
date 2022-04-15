@@ -1,7 +1,7 @@
 ---
 title: "Book Review - Capital"
 date: "2021-04-01"
-tags: ["book reivew"]
+tags: ["book review"]
 ---
 Author: Thomas Pikkety
 

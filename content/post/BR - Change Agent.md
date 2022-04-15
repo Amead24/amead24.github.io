@@ -1,7 +1,7 @@
 ---
 title: "Book Review - Change Agent"
 date: "2020-12-13"
-tags: ["book reivew"]
+tags: ["book review"]
 ---
 Author: Daniel Suarez
 

@@ -1,7 +1,7 @@
 ---
 title: "Book Review - The Rise of Theodore Roosevelt"
 date: "2021-02-15"
-tags: ["book reivew"]
+tags: ["book review"]
 ---
 
 Author: Edmun Morris

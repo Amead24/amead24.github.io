@@ -1,7 +1,7 @@
 ---
 title: "Book Review - Masters of Doom"
 date: "2021-03-18"
-tags: ["book reivew"]
+tags: ["book review"]
 ---
 Author: David Kushner
 
