@@ -1,5 +1,5 @@
 ---
-title: "Book Review - Mission to Mars"
+title: "Book Review - Packing for Mars"
 date: "2021-04-04"
 tags: ["book review"]
 ---
