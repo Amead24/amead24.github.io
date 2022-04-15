@@ -1,10 +1,8 @@
 ---
-title: "Intro MMT"
+title: "Notes on MMT"
 date: "2021-12-24"
 publishdate: "2021-12-24"
-tags:
-  - "economics"
-  - "mmt"
+tags: ["economics", "mmt"]
 ---
 
 In regards to running a surplus and clearing out the national deficit, Clinton's team suggested that:
