@@ -1,1 +1,0 @@
-The intent behind Bridge is to allowseparate class hierarchies to work together even as they evolve independently.

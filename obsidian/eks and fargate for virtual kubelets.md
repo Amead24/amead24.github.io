@@ -1,1 +1,0 @@
-[How AWS Fargate Turned Amazon EKS into Serverless Container Platform – The New Stack](https://thenewstack.io/how-aws-fargate-turned-amazon-eks-into-serverless-container-platform/#:~:text=Since%20resource%20scheduling%20is%20handled%20by%20Fargate%2C%20it,up%20as%20a%20new%20node%20of%20the%20cluster.)

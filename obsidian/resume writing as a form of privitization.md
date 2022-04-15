@@ -1,3 +1,0 @@
-Resume writing feels like another privatization of Keynesian, that is, pushing the onus of finding a job onto the individual in the same way doing retirement planning is pushed onto the individual. These are both fields in and of themselves, and only those who have the means to learn them, or frankly pay someone else to do it, get to reap the rewards. Ultimately it’s a failure of an occupation, or field of study, not to have standardized metrics to evaluate one an other and thus free individuals from proving their worth.
-
-#capitalism 

@@ -1,3 +1,0 @@
-Multiple objects which need to expose some common functionality, but have differing internals.  You'll want to make the parent class initalize some secondary (non-inherited) interface, which you will also write.  This way new parents can be created with little effort (picking up the matching secondary interface if the internals match another) or easily without having to change the parent's parent class (by creating your own version of the secondary interface) and overwriting the setter function.
-
-#oop #pattern

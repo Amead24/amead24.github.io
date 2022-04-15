@@ -1,5 +1,0 @@
-focusing on writing means that ideas need to be reducable to succinct words and because succinct words are hard to come by you'll want to really focus on listening, watching, or discussing for those words.
-
-"It will change the way you read as well: You will become more focused on the most relevant aspects, knowing that you cannot write down everything.  You will read in a more engaged way, because you cannot rephrase anything in your own words if you don't understand what it is about.  By doing this, you will elaborate on the meaning, which will make it much more likely that you will remember it.  You also have to think beyond the things you read, because you need to turn it into something new.  And by doing everything with the clear purpose of writing about it, you will do what you do deliberately."
-
-#note-taking #writing 

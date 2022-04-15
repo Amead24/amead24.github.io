@@ -1,5 +1,0 @@
-journey
-
-challenges
-
-results
